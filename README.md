@@ -1,3 +1,6 @@
+#学习内容
+最值得学习的内容是关于 连接池。 spring-boot-student-data-jpa DBCP2 连接池。spring-boot-student-mybatis-druid-2 druid连接池。
+
 # spring-boot-student
 ## spring-boot-student-banner
 - 修改Spring Boot启动时的默认图案（Banner）
